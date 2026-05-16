@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "972930459036",
+    "firebase_url": "https://vidyavahini-9c40f-default-rtdb.firebaseio.com",
+    "project_id": "vidyavahini-9c40f",
+    "storage_bucket": "vidyavahini-9c40f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972930459036:android:9a617390dec3c94d719459",
+        "android_client_info": {
+          "package_name": "com.example.vidyavahini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOF1pbfryB5NpSN5YopVuPkFVO5y_ROE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
